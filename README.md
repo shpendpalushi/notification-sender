@@ -8,9 +8,9 @@
 Getting started
 
     Clone the repository.
-    Open the solution file (webapi.sln) in Visual Studio.
+    Open the solution file (webapi.sln) in Visual Studio or VSCode or any editor of choice.
     Make sure you have the .NET 8 SDK installed.
-    Run the project.
+    Run the project, or from terminal `dotnet watch run`.
 
 How to use the API
 
